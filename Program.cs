@@ -20,6 +20,7 @@ public class Program
         //printMessageDel += PrintToFile;
 
         //printMessageDel("Hello, Multicast!");
-        ConsoleMenuSystem.Show();
+        //ConsoleMenuSystem.Show();
+        Calculator.Result();
     }
 }
